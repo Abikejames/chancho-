@@ -1,2 +1,0 @@
-The next.sh file 
-
