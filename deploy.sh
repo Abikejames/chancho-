@@ -1,4 +1,3 @@
 iThis is the 3rd practice file 
 thanks
-Let's go !!
-Lets check smtin 
+Ati pa 2 lines re 
